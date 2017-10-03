@@ -1,4 +1,5 @@
 # INCORPORATING #binding.pry INTO FILE
+# check Gemfile to see if pry has been loaded
 require "pry"
 
 def turn_count(board)
